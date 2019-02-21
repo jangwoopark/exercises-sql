@@ -4,4 +4,4 @@ Input Format
 
 The CITY table is described as follows: 
 
-![CITY](select-all/CITY.jpg)
+![](CITY.jpg)
