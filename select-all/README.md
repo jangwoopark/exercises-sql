@@ -4,4 +4,4 @@ Input Format
 
 The CITY table is described as follows: 
 
-![alt tag] (exercises-sql/select-all/CITY.jpg)
+![alt tag](jangwoopark/exercises-sql/select-all/CITY.jpg)
