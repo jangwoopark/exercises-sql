@@ -7,4 +7,5 @@ Input Format
 The CITY and COUNTRY tables are described as follows:
 
 ![](CITY.jpg)
+\
 ![](Country.jpg)
